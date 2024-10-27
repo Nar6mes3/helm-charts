@@ -1,0 +1,14 @@
+apiVersion: v2
+name: app-of-apps
+description: Takes care of creation of Applications & AppProjects.
+icon: https://github.com/nar6mes3/helm-charts/raw/gh-pages/images/argo-icon-color.png
+home: https://github.com/nar6mes3/helm-charts/tree/main/charts/helper-argocd
+maintainers:
+  - name: nar6mes3
+    email: nmestres@redhat.com
+    url: https://nar6mes3.github.com/blog
+sources:
+  - https://github.com/nar6mes3/helm-charts
+keywords:
+  - helper
+  - gitops
